@@ -1,0 +1,16 @@
+# uv / Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data a fotky
+photos/
+classified*/
+vsv_1304_1000/
+*.jpg
+*.png
+
+# Ostatní bordel
+.python-version
+.lock
+CACHEDIR.TAG
